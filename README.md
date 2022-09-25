@@ -1,6 +1,6 @@
-# :employee: Crud App for Employees
+# :man_office_worker: Crud App for Employees
 
-Desenvolvimento de uma aplicação de cadastro e venda de livros, e controle de moedas dos usuários da plataforma.
+Desenvolvimento de uma aplicação de cadastro de funcionários.
 
 Primeiro, instale as dependências:
 
@@ -19,29 +19,21 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador, para ver o
 
 ## :man_technologist: Admin User
 
-Email: mateus@hotmail.com
-Senha: 123456789
+Email: magambaro@hotmail.com
+Senha: 123456
 
-## :curly_haired_man: Normal User
-
-Email: mateusgambaro@gmail.com
-Senha: 13122100
-
-
-## 🛠️ FrontEnd construído com
+## 🛠️ Construído com
 
 * [Next.js Documentation](https://nextjs.org/docs)
-* [React Hook Form](https://react-hook-form.com/) 
-* [React Router Dom](https://v5.reactrouter.com/) 
+* [Supabase](https://supabase.com/) 
+* [PostgreSQL](https://www.postgresql.org/) 
 * [Material UI](https://mui.com/pt/) 
-* [Axios](https://axios-http.com/docs/intro)
+* [Styled-Components](https://styled-components.com/)
 * [React Rainbow](https://react-rainbow.io/) 
-* [FontAwesome](https://fontawesome.com/)
-* [Netlify](https://www.netlify.com/)
 
 
 ## :closed_lock_with_key: Página de Login
-<img src="images/login.png" width="500px"/>
+![image](https://user-images.githubusercontent.com/85763781/192155649-ef039af9-3e46-4639-877a-b3843221ee08.png)
 
 ## :books: Página de Cadastro de livros e controle de moedas | path "/add"
 <img src="images/cadastro.png" width="500px"/>
