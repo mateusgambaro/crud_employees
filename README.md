@@ -43,12 +43,11 @@ Senha: 123456
 *Necessita fazer login para poder adicionar e editar funcionários
 ![image](https://user-images.githubusercontent.com/85763781/192155946-1ac7c888-0095-46a8-9d37-6d483f84301f.png)
 
-## :books: Editar funcionários | path /edit-employees
+## :heavy_check_mark: Adicionar funcionário | path /create-employees
+![image](https://user-images.githubusercontent.com/85763781/192156038-b8dceac6-e087-41f3-8b43-64446e8e7ea2.png)
+
+## :books: Editar ou Deletar funcionários | path /employees & /edit-employees
+![image](https://user-images.githubusercontent.com/85763781/192156004-f9e02693-4a8c-4c36-b9a6-3cd24cf03451.png)
+
 ![image](https://user-images.githubusercontent.com/85763781/192155649-ef039af9-3e46-4639-877a-b3843221ee08.png)
-
-## :heavy_check_mark: Livro Cadastrado com sucesso!
-<img src="images/postMessage.png" width="500px"/>
-
-## :shopping_cart: Página com lista de livros dividida por categoria (sidebar) | path "/products"
-<img src="images/books.png" width="500px"/>
 
