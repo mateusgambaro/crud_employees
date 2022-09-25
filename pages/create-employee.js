@@ -144,7 +144,7 @@ function CreateEmployee() {
           onChange={onChange}
           name="pes_cpf"
           fullWidth
-          label="CPF"
+          label="CPF (Somente números)"
           inputProps={{ inputMode: "numeric", pattern: "[0-9]{1,11}" }}
           value={employee.pes_cpf}
           variant="outlined"
