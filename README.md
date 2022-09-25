@@ -17,11 +17,6 @@ yarn dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador, para ver o resultado.
 
-## :man_technologist: Admin User
-
-Email: magambaro@hotmail.com
-Senha: 123456
-
 ## 🛠️ Construído com
 
 * [Next.js Documentation](https://nextjs.org/docs)
@@ -32,11 +27,24 @@ Senha: 123456
 * [React Rainbow](https://react-rainbow.io/) 
 
 
-## :closed_lock_with_key: Página de Login
-![image](https://user-images.githubusercontent.com/85763781/192155649-ef039af9-3e46-4639-877a-b3843221ee08.png)
+## :closed_lock_with_key: Página de Login e Cadastro | path /profile
 
-## :books: Página de Cadastro de livros e controle de moedas | path "/add"
-<img src="images/cadastro.png" width="500px"/>
+Para poder usar a plataforma, adicionar e editar funcionários, você deve se cadastrar ou usar algum login existente. Como o admin user abaixo.
+
+## :man_technologist: Admin User
+
+Email: magambaro@hotmail.com
+Senha: 123456
+
+![image](https://user-images.githubusercontent.com/85763781/192155887-786ac8b2-f7c8-4e6c-9c8f-5983eff985f8.png)
+
+## :books: Home | path /
+
+*Necessita fazer login para poder adicionar e editar funcionários
+![image](https://user-images.githubusercontent.com/85763781/192155946-1ac7c888-0095-46a8-9d37-6d483f84301f.png)
+
+## :books: Editar funcionários | path /edit-employees
+![image](https://user-images.githubusercontent.com/85763781/192155649-ef039af9-3e46-4639-877a-b3843221ee08.png)
 
 ## :heavy_check_mark: Livro Cadastrado com sucesso!
 <img src="images/postMessage.png" width="500px"/>
